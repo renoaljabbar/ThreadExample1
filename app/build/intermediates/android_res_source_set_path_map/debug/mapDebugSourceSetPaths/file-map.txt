@@ -1,0 +1,8 @@
+com.example.threadexample1.app-pngs-0 C:\Users\Fujitsu\Downloads\ThreadExample1\app\build\generated\res\pngs\debug
+com.example.threadexample1.app-updated_navigation_xml-1 C:\Users\Fujitsu\Downloads\ThreadExample1\app\build\generated\updated_navigation_xml\debug
+com.example.threadexample1.app-packageDebugResources-2 C:\Users\Fujitsu\Downloads\ThreadExample1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.threadexample1.app-packageDebugResources-3 C:\Users\Fujitsu\Downloads\ThreadExample1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.threadexample1.app-debug-4 C:\Users\Fujitsu\Downloads\ThreadExample1\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.threadexample1.app-debug-5 C:\Users\Fujitsu\Downloads\ThreadExample1\app\src\debug\res
+com.example.threadexample1.app-main-6 C:\Users\Fujitsu\Downloads\ThreadExample1\app\src\main\res
+gradleHome-0 C:\Users\Fujitsu\.gradle

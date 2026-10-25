@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id btnStartThread
+id switchUI
+layout activity_main
+string app_name
+string start
+style Theme.ThreadExample1

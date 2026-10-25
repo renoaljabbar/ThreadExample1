@@ -1,0 +1,7 @@
+com.example.threadexample1
+id btnStartThread
+id switchUI
+layout activity_main
+string app_name
+string start
+style Theme_ThreadExample1
